@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/pierrepo?label=follow%20%40pierrepo%20on%20Twitter&style=flat-square)](https://twitter.com/pierrepo)
 
-I am associate professor at [Université de Paris](https://u-paris.fr/en/). I currently perform my research at [Institut Jacques Monod](https://www.ijm.fr/). In tight collaboration with wet-lab biologists, I develop new methods and software, mostly in Python, to analyse mass spectrometry data. More generally, I have a strong interest in data analysis and data management in biology.
+I am associate professor at [Université de Paris](https://u-paris.fr/en/), France. I currently perform my research at [Institut Jacques Monod](https://www.ijm.fr/). In tight collaboration with wet-lab biologists, I develop new methods and software, mostly in Python, to analyse mass spectrometry data. More generally, I have a strong interest in data analysis and data management in biology.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pierrepo&show_icons=true)
 
