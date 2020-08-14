@@ -20,3 +20,15 @@ Have a look to the Plasma project [website](https://plasmabio.org/).
 
 [![Plasma](https://github-readme-stats.vercel.app/api/pin/?username=plasmabio&repo=plasma&show_owner=true)](https://github.com/plasmabio/plasma)
 [![AutoClassWeb](https://github-readme-stats.vercel.app/api/pin/?username=plasmabio&repo=tljh-repo2docker&show_owner=true)](https://github.com/plasmabio/tljh-repo2docker)
+
+
+### Structural bioinformatics
+
+[![PBxplore](https://github-readme-stats.vercel.app/api/pin/?username=pierrepo&repo=PBxplore&show_owner=true)](https://github.com/pierrepo/PBxplore)
+[![Principal Axes](https://github-readme-stats.vercel.app/api/pin/?username=pierrepo&repo=principal_axes&show_owner=true)](https://github.com/pierrepo/principal_axes)
+
+
+### Misc
+
+[![Bibliomarklets](https://github-readme-stats.vercel.app/api/pin/?username=pierrepo&repo=bibliomarklets&show_owner=true)](https://github.com/pierrepo/bibliomarklets)
+
